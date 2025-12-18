@@ -31,31 +31,31 @@ tienda4.sample(10)
 
 Cada archivo CSV contiene la siguiente información sobre las ventas de cada una de las tiendas:
 
---   Fecha de la venta
---   Producto
---   Categoría del producto
---   Precio
---   Cantidad vendida
---   Costo de envío
---   Calificación del cliente
+* Fecha de la venta
+* Producto
+* Categoría del producto
+* Precio
+* Cantidad vendida
+* Costo de envío
+* Calificación del cliente
 
 ## **Dependencias instalas de Python**
 
---   pandas
---   matplotlib
+* pandas
+* matplotlib
 
 
 ## **Análisis de factibilidad en el siguiente orden:**
 
-a)	***Análisis de facturación: *** Consiste en calcular el ingreso total de cada tienda. Sumando los valores de la columna Precio de cada conjunto de datos de la tienda para estimar los ingresos.
+a)	**Análisis de facturación: ** Consiste en calcular el ingreso total de cada tienda. Sumando los valores de la columna Precio de cada conjunto de datos de la tienda para estimar los ingresos.
 
-b)	***Ventas por categoría: *** El objetivo es calcular la cantidad de productos vendidos por categoría en cada tienda. La idea es agrupar los datos por categoría y contar el número de ventas de cada tipo, mostrando las categorías más populares de cada tienda.
+b)	**Ventas por categoría: ** El objetivo es calcular la cantidad de productos vendidos por categoría en cada tienda. La idea es agrupar los datos por categoría y contar el número de ventas de cada tipo, mostrando las categorías más populares de cada tienda.
 
-c)	***Calificación promedio de la tienda: *** Se debe calcular las calificaciones promedio de los clientes para cada tienda. El objetivo es conocer la satisfacción del cliente con los productos vendidos.
+c)	**Calificación promedio de la tienda: ** Se debe calcular las calificaciones promedio de los clientes para cada tienda. El objetivo es conocer la satisfacción del cliente con los productos vendidos.
 
-d)	***Productos más y menos vendidos: *** Es necesario identificar qué productos fueron los más vendidos y los menos vendidos en cada tienda. 
+d)	**Productos más y menos vendidos: ** Es necesario identificar qué productos fueron los más vendidos y los menos vendidos en cada tienda. 
 
-e)	***Envío promedio por tienda: *** En este caso vamos a calcular el costo de envío promedio para cada tienda. El objetivo es comprender cuánto se gasta, en promedio, en el envío de cada tienda.
+e)	**Envío promedio por tienda: ** En este caso vamos a calcular el costo de envío promedio para cada tienda. El objetivo es comprender cuánto se gasta, en promedio, en el envío de cada tienda.
 
 ##  **Resultados**
 
